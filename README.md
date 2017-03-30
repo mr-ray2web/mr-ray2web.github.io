@@ -1,2 +1,1 @@
-## I am **Rajesh Ray**
-## Welcome To My Home In The Internet
+## I am [*Rajesh Ray*](http://www.facebook.com/ray2toxicity) ![Me at Techfest IIITA](/images/RayOnFire.jpg)
