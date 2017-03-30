@@ -1,2 +1,3 @@
 ## I am [*Rajesh Ray*](http://www.facebook.com/ray2toxicity) 
-![Me at Techfest IIITA](/images/RayOnFire.jpg)
+![Me at Techfest IIITA](/RayOnFire.jpg)
+:smile:
